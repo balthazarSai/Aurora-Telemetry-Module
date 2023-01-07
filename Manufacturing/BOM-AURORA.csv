@@ -1,0 +1,53 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"C101, C103, C104, C302, C312, ",5,10u,C,Capacitor_SMD:C_1206_3216Metric,Unpolarized capacitor,C13585
+"C102, C313, ",2,10n,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C57112
+"C201, ",1,4u7,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C19666
+"C202, C203, C204, C205, C206, C301, C303, C305, C306, C308, C309, C310, C311, C401, C503, ",15,100n,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,C307331
+"C207, C212, C307, C315, ",4,1u,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,C52923
+"C208, ",1,10n,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,C15195
+"C209, C504, C505, ",3,2u2,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C23630
+"C210, C211, ",2,12p,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,C1547
+"C304, ",1,10u,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,C15525
+"C314, ",1,470n,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C1623
+"D101, D102, ",2,B5819W,D_Schottky_Small,Diode_SMD:D_SOD-123,"Schottky diode, small symbol",C109213
+"D501, D502, D503, D504, D505, D506, ",6,RCLAMP0521P-N,D_Schottky,Diode_SMD:D_0402_1005Metric,Schottky diode,C316043
+"D601, ",1,GREEN,LED,LED_SMD:LED_0402_1005Metric,Light emitting diode,C130722
+"D602, ",1,BLUE,LED,LED_SMD:LED_0402_1005Metric,Light emitting diode,C130724
+"D603, ",1,RED,LED,LED_SMD:LED_0402_1005Metric,Light emitting diode,C130719
+"F101, ",1,550mA,Polyfuse_Small,Fuse:Fuse_1206_3216Metric,"Resettable fuse, polymeric positive temperature coefficient, small symbol",C371166
+"FB101, FB201, FB501, ",3,MPZ1608Y101BTA00,FerriteBead_Small,Inductor_SMD:L_0603_1608Metric,"Ferrite bead, small symbol",C501996
+"H1, H2, H3, H4, ",4,MountingHole_Pad,MountingHole_Pad,MountingHole:MountingHole_4.3mm_M4_Pad_Via,Mounting Hole with connection,
+"J1, ",1,DX07S016JA1R1500,DX07S016JA1R1500,Added-Footprints:JAE_DX07S016JA1R1500,,
+"J2, ",1,DM3CS-SF,DM3CS-SF,Added-Footprints:HRS_DM3CS-SF,,C202111
+"J3, ",1,TC2030-IDC-NL,TC2030-IDC-NL,Added-Footprints:TAG_TC2030-IDC-NL,,
+"J4, ",1,BAT_CONN,Conn_01x02,Connector_Molex:Molex_Micro-Latch_53254-0270_1x02_P2.00mm_Horizontal,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",
+"L101, ",1,10u,L_Small,Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm,"Inductor, small symbol",C408412
+"Q101, ",1,AO3401A,AO3401A,Package_TO_SOT_SMD:SOT-23,"-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",C15127
+"R101, ",1,100k,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C881354
+"R102, ",1,68k,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C245058
+"R103, ",1,47k,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C881078
+"R104, ",1,15k,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C881106
+"R105, ",1,270,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C881234
+"R201, R310, R503, R504, R505, R506, R507, ",7,10k,R_Small,Resistor_SMD:R_0402_1005Metric,"Resistor, small symbol",C176114
+"R202, ",1,47,R,Resistor_SMD:R_0402_1005Metric,Resistor,C176109
+"R203, R204, ",2,4k7,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C881083
+"R501, R502, ",2,5k11,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C428996
+"R508, R510, R511, R512, R513, ",5,49R9,R_Small,Resistor_SMD:R_0402_1005Metric,"Resistor, small symbol",C149909
+"R509, ",1,1M1,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C247585
+"R601, ",1,150R,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C227596
+"R602, ",1,49R9,R_Small,Resistor_SMD:R_0402_1005Metric,"Resistor, small symbol",C149909
+"R603, ",1,150R,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",C227596
+"SW1, ",1,SW_SPDT,SW_SPDT,Added-Footprints:G-Switch-MK-12C02-G020,"Switch, single pole double throw",C963206
+"U1, ",1,RT8259GJ6,RT8259GJ6,Package_TO_SOT_SMD:TSOT-23-6,,C425775
+"U2, ",1,STM32F446RET6,STM32F446RETx,Package_QFP:LQFP-64_10x10mm_P0.5mm,"ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 180MHz, 1.8-3.6V, 50 GPIO, LQFP-64",C69336
+"U3, ",1,H3LIS200DLTR,H3LIS200DLTR,Added-Footprints:H3LIS200DLTR,,C2655078
+"U4, ",1,MPL3115A2,MPL3115A2,Added-Footprints:MPL3115A2,,C54429
+"U5, ",1,HDC1080,HDC1080,Package_SON:Texas_PWSON-N6,"Low Power,High Accuracy Digital Humidity Sensor with Temperature Sensor",C82227
+"U6, ",1,LIS3MDL,LIS3MDL,Added-Footprints:XDCR_LIS3MDLTR,,
+"U7, ",1,BMI270,BMI270,Added-Footprints:XDCR_BMI270,,C2836813
+"U8, ",1,I3G4250DTR,I3G4250DTR,Added-Footprints:I3G4250DTR,,
+"U9, ",1,W25N01GVZEIG_TR,W25N01GVZEIG_TR,Added-Footprints:W25N01GVZEIG_TR,,C907680
+"U10, ",1,RFM96W-433S2,RFM96W-433S2,RF_Module:HOPERF_RFM9XW_SMD,"Low power long range transceiver module, SPI and parallel interface, 433 MHz, spreading factor 6 to12, bandwidth 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16",
+"U11, ",1,EDGE_ANTENNA,SMACONNECTOR_EDGE_UFL,Added-Footprints:SMA_EDGE,,
+"U12, ",1,USBLC6-2SC6,USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",C7519
+"Y1, ",1,16MHz,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4, small symbol",C13738
