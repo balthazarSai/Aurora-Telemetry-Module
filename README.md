@@ -32,7 +32,7 @@ FUSE SUSTAINED      : 750mA
 FUSE BLOW(1s)       : 1.2A
 ```
 
-<img src="https://github.com/balthazarSai/Aurora-Telemetry-Module/blob/main/Manufacturing/AURORAV1.jpg" width="100">
+<img src="https://github.com/balthazarSai/Aurora-Telemetry-Module/blob/main/Manufacturing/AURORAV1.jpg" width="600">
 
 ##  Software
 I am currently working on the software implementation for this module, I will be updating this repo as I go and pushing finalised code as I go.
