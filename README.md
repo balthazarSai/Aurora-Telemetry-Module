@@ -1,5 +1,14 @@
 # Aurora Telemetry Module
-After a lot of hard work, I have created my first prototype telemetry module for model rocketry. In this repository you can find all the kicad files, the gerber files as well as the BOM that I used to produce this.
+The Aurora V1 is an experimental telemetry module for model rockets. I designed it after deciding that I wanted to experiment with different algorithms for analysing the telemetry data from a rocket to create an active control model. At its current stage the module is capable of logging a variety of data and transmitting back to the ground station (apporximate range depending on settings but can theoretically do 20km+ line of sight). The module also has redundant on board memory storage in case of transmission failures by using a microSD card as well as a NAND Flash chip more than capable of holding the generated data for about 1-2hrs of operation without clearing (estimated values more detailed ones will be added after software review).
+
+## Pipeline
+Here is an estimated pipeline of when I plan to release/work on the next versions of the PCB and the functionality I want to add on each version update. I will be updating this table based on my progress.
+
+| Version       | Functionality | Status        |
+| ------------- |:-------------:|:-------------:|
+| AURORA V1     | Telemetry     |  **Released**     |
+| AURORA V2     | V1 + GPS      |  Planned Q3 2023|
+| AURORA V3     | V2 + Recovery |      -        |
 
 ## Technical Specifications
 The AURORA V1 Telemetry module has the following sensors and specifications:
@@ -33,6 +42,9 @@ FUSE BLOW(1s)       : 1.2A
 ```
 
 <img src="https://github.com/balthazarSai/Aurora-Telemetry-Module/blob/main/Manufacturing/AURORAV1.jpg" width="600">
+
+## Manufacturing
+I used JLCPCB to produce the protoype version of this board, the Bill of Materials provided has some of the vendor codes provided based on their availability at the time of ordering.
 
 ##  Software
 I am currently working on the software implementation for this module, I will be updating this repo as I go and pushing finalised code as I go.
