@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "AURORA")
+    (date "2023-01-07")
+    (rev "V1")
+    (company "Balthazar Avionics")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" power)

@@ -5,9 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "Log(er)")
-    (date "2022-12-05")
-    (rev "v0.1")
+    (title "AURORA")
+    (date "2023-01-07")
+    (rev "V1")
     (company "Balthazar Avionics")
   )
 
